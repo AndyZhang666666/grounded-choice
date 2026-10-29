@@ -1,4 +1,27 @@
-# 有据 Grounded Choice · 生活决策审议台
+# 有据 · Grounded Choice
+
+[在线体验](https://andyzhang666666.github.io/grounded-choice/) · [English](README.en.md) · [作品索引](https://github.com/AndyZhang666666/AndyZhang666666/blob/main/PROJECTS.md)
+
+经验互相矛盾时，哪些建议适用于眼前这个决定？
+
+![有据 · Grounded Choice的实际产品界面](https://andyzhang666666.github.io/assets/work/showcase/grounded-crop.jpg)
+
+## 值得看的设计
+
+- 来源、共识、分歧和适用条件放在一起。
+- 硬约束冲突明确标出，不被推荐措辞掩盖。
+- 推荐与选择分开，决定由用户确认并导出。
+
+## 建议体验路径
+
+1. 选择川西旅行或扫地机器人场景，查看原创模拟材料。
+2. 调整保留的来源，核对需求简报和存在分歧的建议。
+3. 比较代价与约束，主动选择方案，下载决定卡。
+
+**运行方式：** 原创模拟资料的交互原型，不接实时搜索或自动电商比价。受限使用的个人作品，使用条款见 LICENSE。
+
+<details>
+<summary>展开实现、模型与验证记录</summary>
 
 **[在线体验](https://andyzhang666666.github.io/grounded-choice/)** · [个人网站](https://andyzhang666666.github.io/) · [原始演示](https://redcoworkdev.xiaohongshu.com/s/qlyd4mf4jp/)
 
@@ -182,3 +205,5 @@ Copyright © 2026 项目作者。保留所有权利。
 查看本项目不代表获得任何商业使用、再授权或衍生开发许可。如需使用，请先取得作者的明确书面授权。
 
 完整条款见 [LICENSE](./LICENSE)。
+
+</details>
